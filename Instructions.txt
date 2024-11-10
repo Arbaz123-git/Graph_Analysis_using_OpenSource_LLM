@@ -1,0 +1,7 @@
+In order to run the file 
+First run the graph.ipynb in the google colaboratory to get to know the Open Source model and other necessary info 
+about project
+- all the necessary points and workflow is commented in the file with codes.
+
+And then run the graph_analysis.py file in your VS Code or PyCharm or any other code editor in order to run the Streamlit 
+Application. 
