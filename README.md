@@ -8,7 +8,7 @@ Writing a Python script that:
 
 1. Provides input fields for uploading CSV files and generates pre-defined prompts for possible plots.
 
-2. Uses a pre-trained Generative AI model(Gemma) to create prompts based on the data for various types of graph distributions. 
+2. Uses a pre-trained Generative AI model(google/gemma-2b) to create prompts based on the data for various types of graph distributions. 
 
 3. Produces graphs or plots based on the prompts selected from the generated output. 
 
